@@ -2,5 +2,5 @@
 
 Esse script ajuda a fazer os calculos do dia a dia, usando o python.
 
-No terminal, use o comando "./calculadora.sh" para executar o script. agora é com voçes.
+No terminal, use o comando "./calculadora.sh" para executar o script e começar a calcular.
 
