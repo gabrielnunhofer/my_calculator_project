@@ -1,2 +1,2 @@
-# my_project_calculator
+# my_calculator_project
 
